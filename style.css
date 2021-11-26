@@ -1,0 +1,18 @@
+body
+{
+    background-image: linear-gradient(rgb(139, 185, 255), rgb(68, 155, 255));
+    color: black;
+}
+
+#FamilyMemberImg
+{
+    width: 615px;
+    height: 350px;
+}
+
+#NextImgButton
+{
+    width: 15%;
+    height: 9%;
+    font-size: 24px;
+}
