@@ -15,3 +15,4 @@ function Next()
 
     index++;
 }
+// I suggest changing the hints a little ( refer to above comment)
